@@ -26,7 +26,7 @@ Unzip the folder, and if it is named OpenBCI_Radios-master, rename it to just Op
 
 Now move the folder from OpenBCI_Radios/libraries called RFduino to:
 On a Mac, put the RFduino folder and everything it contains in
-/Applications/Arduino.app/Contents/Resources/Java/hardware/arduino
+/Applications/Right Click on Arduino.app/Show Package Contents/Contents/Resources/Java/hardware/arduino
 
 On a Windows, put the RFduino folder and everything it contains in
 C:\Program Files (x86)\Arduino-1.5.x\hardware\arduino
